@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../FumikoIshizawa/progress-pose-unitychan/Assets/Scripts/UnityChanController.cs">
+    <Files>
+      <File FileName="../../../FumikoIshizawa/progress-pose-unitychan/Assets/Scripts/UnityChanController.cs" Line="16" Column="36" />
+      <File FileName="../../../FumikoIshizawa/progress-pose-unitychan/Assets/testReciever.cs" Line="1" Column="1" />
+      <File FileName="../../../FumikoIshizawa/progress-pose-unitychan/Assets/Scripts/IReciever.cs" Line="1" Column="1" />
+      <File FileName="../../../FumikoIshizawa/progress-pose-unitychan/Assets/Scripts/SceneManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
